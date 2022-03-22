@@ -1,4 +1,5 @@
 {
+  "data": [{
   "id": 1,
   "nrp": "05211740000082",
   "nama": "NOVYANT SYAHPUTRA",
@@ -39,4 +40,5 @@
     { "tamat": "01-01-2010", "pendidikan": "SMA"},
     { "tamat": "01-01-2010", "pendidikan": "S1"}
   ]
+  }]
 }
