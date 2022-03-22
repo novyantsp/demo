@@ -1,14 +1,42 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "id": 1,
+  "nrp": "05211740000082",
+  "nama": "NOVYANT SYAHPUTRA",
+  "pangkat": "MAYOR JENDERAL",
+  "mdpangkat": "2 Th, 3 Bln",
+  "tmttni": "01-01-2019",
+  "tmtfiktif": "-",
+  "mdprajurit": "2 Th, 3 Bln",
+  "ttl": "Kediri, 16 November 1997",
+  "jkelamin": "L",
+  "usia": "23 Th, 3 Bln",
+  "suku": "Jawa",
+  "agama": "Islam",
+  "jabatan": "PUSKODAL",
+  "lamajabatan": "1 Th. 2 Bln",
+  "alamat": "Jl Melati 3, Jakarta Pusat",
+  "umum": [
+    { "tamat": 2010, "pendidikan": "SD"},
+    { "tamat": 2013, "pendidikan": "SMP"},
+    { "tamat": 2016, "pendidikan": "SMA"},
+    { "tamat": 2021, "pendidikan": "S1"}
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "militer": [
+    { "tamat": "01-01-2010", "pendidikan": "SD"},
+    { "tamat": "01-01-2010", "pendidikan": "SMP"},
+    { "tamat": "01-01-2010", "pendidikan": "SMA"},
+    { "tamat": "01-01-2010", "pendidikan": "S1"},
+    { "tamat": "01-01-2010", "pendidikan": "SD"},
+    { "tamat": "01-01-2010", "pendidikan": "SMP"},
+    { "tamat": "01-01-2010", "pendidikan": "SMA"},
+    { "tamat": "01-01-2010", "pendidikan": "S1"},
+    { "tamat": "01-01-2010", "pendidikan": "SD"},
+    { "tamat": "01-01-2010", "pendidikan": "SMP"},
+    { "tamat": "01-01-2010", "pendidikan": "SMA"},
+    { "tamat": "01-01-2010", "pendidikan": "S1"},
+    { "tamat": "01-01-2010", "pendidikan": "SD"},
+    { "tamat": "01-01-2010", "pendidikan": "SMP"},
+    { "tamat": "01-01-2010", "pendidikan": "SMA"},
+    { "tamat": "01-01-2010", "pendidikan": "S1"}
+  ]
 }
