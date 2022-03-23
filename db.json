@@ -2,6 +2,7 @@
   "data": [
     {
     "id": 1,
+    "img": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ec719f46-44d6-4593-ab1e-952b01909a4e/d4u1a31-881d3eab-bb0a-4642-98a8-160842e8f88e.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2VjNzE5ZjQ2LTQ0ZDYtNDU5My1hYjFlLTk1MmIwMTkwOWE0ZVwvZDR1MWEzMS04ODFkM2VhYi1iYjBhLTQ2NDItOThhOC0xNjA4NDJlOGY4OGUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Ng3pR-mZUHotFB5T4w5kjZVjlwjpt4sp5DO1y6jAOvw",
     "nrp": "05211740000082",
     "nama": "NOVYANT SYAHPUTRA",
     "pangkat": "MAYOR JENDERAL",
@@ -103,6 +104,7 @@
   },
   {
     "id": 2,
+    "img": "https://image.winudf.com/v2/image/Y29tLnJhZmFvLlJvcm9ub2Fab3JvV2FsbHBhcGVySERfc2NyZWVuXzNfMTUyMjYzMzQ5NV8wNDg/screen-3.jpg?fakeurl=1&type=.webp",
     "nrp": "05211740000082",
     "nama": "LAROY BAFI",
     "pangkat": "MAYOR",
@@ -204,6 +206,7 @@
   },
   {
     "id": 1,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9mfK-ng-8dp13kkM0TOS1PZi7D-KsAA6wEQ&usqp=CAU",
     "nrp": "05211740000082",
     "nama": "AMIR DOE",
     "pangkat": "JENDERAL",
