@@ -1,5 +1,6 @@
 {
-  "data": [{
+  "data": [
+    {
     "id": 1,
     "nrp": "05211740000082",
     "nama": "NOVYANT SYAHPUTRA",
@@ -16,106 +17,7 @@
     "agama": "Islam",
     "jabatan": "MABESAL/PUSKODAL/SI OPS/SUBSI JITA/KA",
     "lamajabatan": "1 Th. 2 Bln",
-    "alamat": "Jl Melati 3, Jakarta Pusat",
-    "umum": [{
-        "tamat": 2010,
-        "pendidikan": "SD"
-      },
-      {
-        "tamat": 2013,
-        "pendidikan": "SMP"
-      },
-      {
-        "tamat": 2016,
-        "pendidikan": "SMA"
-      },
-      {
-        "tamat": 2021,
-        "pendidikan": "S1"
-      }
-    ],
-    "militer": [{
-        "tamat": "01-01-2010",
-        "pendidikan": "AAL-64 TH 2010"
-      },
-      {
-        "tamat": "01-01-2013",
-        "pendidikan": "DIKSPEKSA TNI AL TH 2013"
-      },
-      {
-        "tamat": "01-01-2013",
-        "pendidikan": "PUSKALKA TNI AL TH 2013"
-      },
-      {
-        "tamat": "01-01-2014",
-        "pendidikan": "LATIHAN PENGAMANAN SI TH 2014"
-      },
-      {
-        "tamat": "01-01-2014",
-        "pendidikan": "LAT GS TH 2014"
-      },
-      {
-        "tamat": "01-01-2015",
-        "pendidikan": "LAT CYBERWARFARE TNI AL 2015"
-      },
-      {
-        "tamat": "01-01-2016",
-        "pendidikan": "LAT CYBERWARFARE TNI AD 2016"
-      },
-      {
-        "tamat": "01-01-2016",
-        "pendidikan": "LATIHAN GABUNGAN TNI TH 2016"
-      },
-      {
-        "tamat": "01-01-2017",
-        "pendidikan": "LATIHAN GABUNGAN TNI TH 2017"
-      },
-      {
-        "tamat": "01-01-2017",
-        "pendidikan": "LATIHAN TEMBAK JITU TNI TH 2017"
-      },
-      {
-        "tamat": "01-01-2017",
-        "pendidikan": "LATIHAN STRATEGI PERANG TNI TH 2017"
-      },
-      {
-        "tamat": "01-01-2010",
-        "pendidikan": "LATIHAN GABUNGAN TNI TH 2016"
-      },
-      {
-        "tamat": "01-01-2010",
-        "pendidikan": "LATIHAN GABUNGAN TNI TH 2016"
-      },
-      {
-        "tamat": "01-01-2010",
-        "pendidikan": "LATIHAN GABUNGAN TNI TH 2016"
-      },
-      {
-        "tamat": "01-01-2010",
-        "pendidikan": "LATIHAN GABUNGAN TNI TH 2016"
-      },
-      {
-        "tamat": "01-01-2010",
-        "pendidikan": "LATIHAN GABUNGAN TNI TH 2016"
-      }
-    ],
-    "id": 2,
-    "nrp": "05211740000082",
-    "nama": "LAROY BAFI",
-    "pangkat": "MAYOR JENDERAL",
-    "korps": "B",
-    "mdpangkat": "1 Th, 3 Bln",
-    "tmttni": "01-01-2019",
-    "tmtfiktif": "-",
-    "mdprajurit": "2 Th, 9 Bln",
-    "ttl": "JOMBANG, 2 Februari 1999",
-    "jkelamin": "L",
-    "usia": "21 Th, 3 Bln",
-    "suku": "Jawa",
-    "agama": "Islam",
-    "jabatan": "MABESAL/PUSKODAL/SI OPS/SUBSI JITA/STAFF",
-    "lamajabatan": "1 Th. 2 Bln",
-    "alamat": "Jl Melati 3, Jakarta Pusat",
+    "alamat": "Jl MELATI 3, JAKARTA PUSAT",
     "umum": [{
         "tamat": 2010,
         "pendidikan": "SD"
@@ -198,5 +100,208 @@
         "pendidikan": "LATIHAN GABUNGAN TNI TH 2016"
       }
     ]
-  }]
+  },
+  {
+    "id": 2,
+    "nrp": "05211740000082",
+    "nama": "LAROY BAFI",
+    "pangkat": "MAYOR",
+    "korps": "B",
+    "mdpangkat": "1 Th, 7 Bln",
+    "tmttni": "01-01-2019",
+    "tmtfiktif": "-",
+    "mdprajurit": "2 Th, 1 Bln",
+    "ttl": "JOMBANG, 02 FEBRUARI 1999",
+    "jkelamin": "L",
+    "usia": "21 Th, 3 Bln",
+    "suku": "Jawa",
+    "agama": "Islam",
+    "jabatan": "MABESAL/PUSKODAL/SI OPS/SUBSI JITA/STAFF",
+    "lamajabatan": "1 Th. 2 Bln",
+    "alamat": "JL MAWAR 4, JAKARTA PUSAT",
+    "umum": [{
+        "tamat": 2010,
+        "pendidikan": "SD"
+      },
+      {
+        "tamat": 2013,
+        "pendidikan": "SMP"
+      },
+      {
+        "tamat": 2016,
+        "pendidikan": "SMA"
+      },
+      {
+        "tamat": 2021,
+        "pendidikan": "S1"
+      }
+    ],
+    "militer": [{
+        "tamat": "01-01-2010",
+        "pendidikan": "AAL-64 TH 2010"
+      },
+      {
+        "tamat": "01-01-2013",
+        "pendidikan": "DIKSPEKSA TNI AL TH 2013"
+      },
+      {
+        "tamat": "01-01-2013",
+        "pendidikan": "PUSKALKA TNI AL TH 2013"
+      },
+      {
+        "tamat": "01-01-2014",
+        "pendidikan": "LATIHAN PENGAMANAN SI TH 2014"
+      },
+      {
+        "tamat": "01-01-2014",
+        "pendidikan": "LAT GS TH 2014"
+      },
+      {
+        "tamat": "01-01-2015",
+        "pendidikan": "LAT CYBERWARFARE TNI AL 2015"
+      },
+      {
+        "tamat": "01-01-2016",
+        "pendidikan": "LAT CYBERWARFARE TNI AD 2016"
+      },
+      {
+        "tamat": "01-01-2016",
+        "pendidikan": "LATIHAN GABUNGAN TNI TH 2016"
+      },
+      {
+        "tamat": "01-01-2017",
+        "pendidikan": "LATIHAN GABUNGAN TNI TH 2017"
+      },
+      {
+        "tamat": "01-01-2017",
+        "pendidikan": "LATIHAN TEMBAK JITU TNI TH 2017"
+      },
+      {
+        "tamat": "01-01-2017",
+        "pendidikan": "LATIHAN STRATEGI PERANG TNI TH 2017"
+      },
+      {
+        "tamat": "01-01-2010",
+        "pendidikan": "LATIHAN GABUNGAN TNI TH 2016"
+      },
+      {
+        "tamat": "01-01-2010",
+        "pendidikan": "LATIHAN GABUNGAN TNI TH 2016"
+      },
+      {
+        "tamat": "01-01-2010",
+        "pendidikan": "LATIHAN GABUNGAN TNI TH 2016"
+      },
+      {
+        "tamat": "01-01-2010",
+        "pendidikan": "LATIHAN GABUNGAN TNI TH 2016"
+      },
+      {
+        "tamat": "01-01-2010",
+        "pendidikan": "LATIHAN GABUNGAN TNI TH 2016"
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "nrp": "05211740000082",
+    "nama": "AMIR DOE",
+    "pangkat": "JENDERAL",
+    "korps": "C",
+    "mdpangkat": "2 Th, 3 Bln",
+    "tmttni": "01-01-2019",
+    "tmtfiktif": "-",
+    "mdprajurit": "2 Th, 3 Bln",
+    "ttl": "LOS ANGELES, 07 JANUARI 1999",
+    "jkelamin": "L",
+    "usia": "21 Th, 3 Bln",
+    "suku": "Jawa",
+    "agama": "Islam",
+    "jabatan": "MABESAL/PUSKODAL/SI OPS/SUBSI JITA/KA",
+    "lamajabatan": "1 Th. 2 Bln",
+    "alamat": "JL SEPATU 3, JAKARTA PUSAT",
+    "umum": [{
+        "tamat": 2010,
+        "pendidikan": "SD"
+      },
+      {
+        "tamat": 2013,
+        "pendidikan": "SMP"
+      },
+      {
+        "tamat": 2016,
+        "pendidikan": "SMA"
+      },
+      {
+        "tamat": 2021,
+        "pendidikan": "S1"
+      }
+    ],
+    "militer": [{
+        "tamat": "01-01-2010",
+        "pendidikan": "AAL-64 TH 2010"
+      },
+      {
+        "tamat": "01-01-2013",
+        "pendidikan": "DIKSPEKSA TNI AL TH 2013"
+      },
+      {
+        "tamat": "01-01-2013",
+        "pendidikan": "PUSKALKA TNI AL TH 2013"
+      },
+      {
+        "tamat": "01-01-2014",
+        "pendidikan": "LATIHAN PENGAMANAN SI TH 2014"
+      },
+      {
+        "tamat": "01-01-2014",
+        "pendidikan": "LAT GS TH 2014"
+      },
+      {
+        "tamat": "01-01-2015",
+        "pendidikan": "LAT CYBERWARFARE TNI AL 2015"
+      },
+      {
+        "tamat": "01-01-2016",
+        "pendidikan": "LAT CYBERWARFARE TNI AD 2016"
+      },
+      {
+        "tamat": "01-01-2016",
+        "pendidikan": "LATIHAN GABUNGAN TNI TH 2016"
+      },
+      {
+        "tamat": "01-01-2017",
+        "pendidikan": "LATIHAN GABUNGAN TNI TH 2017"
+      },
+      {
+        "tamat": "01-01-2017",
+        "pendidikan": "LATIHAN TEMBAK JITU TNI TH 2017"
+      },
+      {
+        "tamat": "01-01-2017",
+        "pendidikan": "LATIHAN STRATEGI PERANG TNI TH 2017"
+      },
+      {
+        "tamat": "01-01-2010",
+        "pendidikan": "LATIHAN GABUNGAN TNI TH 2016"
+      },
+      {
+        "tamat": "01-01-2010",
+        "pendidikan": "LATIHAN GABUNGAN TNI TH 2016"
+      },
+      {
+        "tamat": "01-01-2010",
+        "pendidikan": "LATIHAN GABUNGAN TNI TH 2016"
+      },
+      {
+        "tamat": "01-01-2010",
+        "pendidikan": "LATIHAN GABUNGAN TNI TH 2016"
+      },
+      {
+        "tamat": "01-01-2010",
+        "pendidikan": "LATIHAN GABUNGAN TNI TH 2016"
+      }
+    ]
+  }
+]
 }
